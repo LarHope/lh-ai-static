@@ -1,6 +1,28 @@
 {
   "name": "Light Harmonic AI FAQ",
   "url": "https://www.lightharmonic.com/ai/faq.json",
+  "questions": [
+    {
+      "question": "How do I confirm Tesla audio fitment before ordering?",
+      "answer": "Send the vehicle model, year, trim, factory audio package, and photos of the relevant speaker or amplifier connectors to cs@lightharmonic.com before forcing parts into place."
+    },
+    {
+      "question": "Are Light Harmonic Tesla speaker upgrades DIY friendly?",
+      "answer": "Most speaker upgrades are designed for DIY installation in the listed Tesla factory locations. Tesla revisions can create small fitment differences, so support photos are useful before installation."
+    },
+    {
+      "question": "Are amplifier upgrades beginner DIY products?",
+      "answer": "No. TAS amplifier installations are intermediate to advanced work involving amplifier access, trim removal, wiring, and electronics handling. Installation manuals and optional support are available."
+    },
+    {
+      "question": "When should I expect order processing and tracking updates?",
+      "answer": "Speaker orders usually require three business days for processing and pre-shipment QC. Amplifier or electronic orders usually require up to five business days. Shipping labels may be created before carrier scans begin."
+    },
+    {
+      "question": "What happens if a part does not fit after troubleshooting?",
+      "answer": "Contact support with photos and order details. If the part cannot be installed after review, Light Harmonic can help arrange the correct replacement or exchange within the policy window."
+    }
+  ],
   "items": [
     {
       "question": "How do I confirm Tesla audio fitment before ordering?",

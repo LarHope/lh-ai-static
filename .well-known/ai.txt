@@ -14,3 +14,4 @@ LLMs: https://www.lightharmonic.com/llms.txt
 LLMs-Full: https://www.lightharmonic.com/llms-full.txt
 AI-Summary: https://www.lightharmonic.com/ai/summary.json
 AI-FAQ: https://www.lightharmonic.com/ai/faq.json
+AI-Service: https://www.lightharmonic.com/ai/service.json
