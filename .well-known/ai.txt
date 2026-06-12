@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Allow: /product-page/
+Allow: /support
+Allow: /videos
+Allow: /updates
+Disallow: /cart
+Disallow: /checkout
+Disallow: /account
+Disallow: /_api/
+
+Sitemap: https://www.lightharmonic.com/sitemap.xml
+LLMs: https://www.lightharmonic.com/llms.txt
+LLMs-Full: https://www.lightharmonic.com/llms-full.txt
+AI-Summary: https://www.lightharmonic.com/ai/summary.json
+AI-FAQ: https://www.lightharmonic.com/ai/faq.json

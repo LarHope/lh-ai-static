@@ -1,0 +1,455 @@
+{
+  "name": "Light Harmonic",
+  "url": "https://www.lightharmonic.com",
+  "description": "Light Harmonic has focused on Tesla-specific audio upgrades since 2014, including speaker systems, TAS amplifier upgrades, model-specific fitment, installation manuals, videos, and customer support.",
+  "primaryTopics": [
+    "Tesla audio upgrades",
+    "Tesla speaker upgrades",
+    "Tesla amplifier upgrades",
+    "installation support",
+    "fitment support"
+  ],
+  "keyPages": [
+    {
+      "name": "Tesla Model Y Zenith 8",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-y-speakers-gen-3-zenith-8-speakers-system"
+    },
+    {
+      "name": "Tesla Model 3 Highland RWD Premium 9",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-3-highland-rwd-9-speakers-system-upgrade"
+    },
+    {
+      "name": "Cybertruck Ultimate 11",
+      "url": "https://www.lightharmonic.com/product-page/cybertruck-ultimate-13-speakers-subwoofer-woofer-midrange-tweeter"
+    },
+    {
+      "name": "Tesla TAS amplifier support",
+      "url": "https://www.lightharmonic.com/support"
+    },
+    {
+      "name": "FAQ",
+      "url": "https://www.lightharmonic.com/faq"
+    },
+    {
+      "name": "Updates",
+      "url": "https://www.lightharmonic.com/updates"
+    }
+  ],
+  "marketSignals": [
+    "Tesla-specific audio upgrade focus since 2014",
+    "Speaker upgrades for Tesla factory speaker locations and connectors where applicable",
+    "TAS amplifier upgrades for intermediate and advanced installations",
+    "Support resources for fitment, manuals, videos, returns, shipping, and warranty"
+  ],
+  "productCatalog": [
+    {
+      "name": "Tesla Model X Front Door Speakers, Sub and Amplifier Upgrades (Before 2021)",
+      "sku": "MX-A1G-2D1S",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-x-front-door-speakers-sub-and-amplifier-before-2021",
+      "price": {
+        "currency": "USD",
+        "price": 1899.0,
+        "discountedPrice": 1899.0,
+        "formatted": {
+          "price": "$1,899.00",
+          "discountedPrice": "$1,899.00"
+        }
+      },
+      "category": "Tesla amplifier or complete audio product"
+    },
+    {
+      "name": "Tesla Model X Upgraded Speakers & Amplifier Ultimate Package (After 2021)",
+      "sku": "MX-A2G-2D1S",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-x-upgraded-speakers-amplifier-ultimate-package-after-2021",
+      "price": {
+        "currency": "USD",
+        "price": 2399.0,
+        "discountedPrice": 2399.0,
+        "formatted": {
+          "price": "$2,399.00",
+          "discountedPrice": "$2,399.00"
+        }
+      },
+      "category": "Tesla amplifier or complete audio product"
+    },
+    {
+      "name": "Tesla Model Y Juniper Upgraded Speakers - Zenith 7 - Woofer/Tweeter (2025-Now)",
+      "sku": "MYJ-G3-2D3M2T1",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-y-juniper-upgraded-speakers-zenith-7-woofer-tweeter-2025-now",
+      "price": {
+        "currency": "USD",
+        "price": 1199.0,
+        "discountedPrice": 1099.0,
+        "formatted": {
+          "price": "$1,199.00",
+          "discountedPrice": "$1,099.00"
+        }
+      },
+      "category": "Tesla speaker product"
+    },
+    {
+      "name": "Tesla Model 3 Highland Upgraded Speakers - Zenith 7 - Woofer/Tweeter (2024-Now)",
+      "sku": "M3H-G3-2D3M2T",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-3-highland-upgraded-speakers-zenith-7-woofer-tweeter-2024-now",
+      "price": {
+        "currency": "USD",
+        "price": 1199.0,
+        "discountedPrice": 1099.0,
+        "formatted": {
+          "price": "$1,199.00",
+          "discountedPrice": "$1,099.00"
+        }
+      },
+      "category": "Tesla speaker product"
+    },
+    {
+      "name": "Tesla Model S Upgraded Speakers & Amplifier Ultimate Package (After 2021)",
+      "sku": "MS-G3-A2G-4D1S",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-s-upgraded-speakers-and-amplifier-ultimate-gen-3-woofer",
+      "price": {
+        "currency": "USD",
+        "price": 2650.0,
+        "discountedPrice": 2650.0,
+        "formatted": {
+          "price": "$2,650.00",
+          "discountedPrice": "$2,650.00"
+        }
+      },
+      "category": "Tesla amplifier or complete audio product"
+    },
+    {
+      "name": "Tesla Model 3 Highland RWD- Premium 9 Upgraded Sound Speakers - Woofer/Tweeter",
+      "sku": "M3H-2D3M2Mb2T",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-3-highland-rwd-9-speakers-system-upgrade",
+      "price": {
+        "currency": "USD",
+        "price": 1299.0,
+        "discountedPrice": 1299.0,
+        "formatted": {
+          "price": "$1,299.00",
+          "discountedPrice": "$1,299.00"
+        }
+      },
+      "category": "Tesla speaker product"
+    },
+    {
+      "name": "Tesla Model Y Juniper 2025 RWD Upgraded Speakers - Premium 9",
+      "sku": "MYJ-G3-2D3M2Mb2T",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-y-juniper-rwd-2025-9-speakers-upgraded-system",
+      "price": {
+        "currency": "USD",
+        "price": 1299.0,
+        "discountedPrice": 1299.0,
+        "formatted": {
+          "price": "$1,299.00",
+          "discountedPrice": "$1,299.00"
+        }
+      },
+      "category": "Tesla speaker product"
+    },
+    {
+      "name": "Tesla Upgraded Tweeters for Model 3/Y/Cybertruck - Titanium Wave",
+      "sku": "M3YT-TW-2T",
+      "url": "https://www.lightharmonic.com/product-page/titanium-wave-tweeters-for-tesla-model-3-y-cybertruck",
+      "price": {
+        "currency": "USD",
+        "price": 250.0,
+        "discountedPrice": 250.0,
+        "formatted": {
+          "price": "$250.00",
+          "discountedPrice": "$250.00"
+        }
+      },
+      "category": "Tesla speaker product"
+    },
+    {
+      "name": "Tesla Model Y Juniper 2025 Upgraded Speaker Ultimate 12 Subwoofer/Woofer/Tweeter",
+      "sku": "MYJ-G3-2D5M2Mb2T1S",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-y-juniper-2025-audio-upgraded-12-speakers-premium",
+      "price": {
+        "currency": "USD",
+        "price": 1699.0,
+        "discountedPrice": 1649.0,
+        "formatted": {
+          "price": "$1,699.00",
+          "discountedPrice": "$1,649.00"
+        }
+      },
+      "category": "Tesla speaker product"
+    },
+    {
+      "name": "Tesla Model 3 Upgraded Amplifier - TAS Gen. 3 Infinity 1000W 8 Channels",
+      "sku": "M3-A2G",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-3-upgraded-amplifier-1000w",
+      "price": {
+        "currency": "USD",
+        "price": 1100.0,
+        "discountedPrice": 1100.0,
+        "formatted": {
+          "price": "$1,100.00",
+          "discountedPrice": "$1,100.00"
+        }
+      },
+      "category": "Tesla amplifier or complete audio product"
+    },
+    {
+      "name": "Tesla Model Y Upgraded Amplifier - TAS Gen. 3 Infinity 1000W 8 Channels",
+      "sku": "MY-A2G",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-y-upgraded-amplifier-1000w",
+      "price": {
+        "currency": "USD",
+        "price": 1100.0,
+        "discountedPrice": 1100.0,
+        "formatted": {
+          "price": "$1,100.00",
+          "discountedPrice": "$1,100.00"
+        }
+      },
+      "category": "Tesla amplifier or complete audio product"
+    },
+    {
+      "name": "Tesla Model S/X Upgraded Amplifier TAS Gen 3 (After Y2021)",
+      "sku": "MS-A2G",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-s-x-upgraded-amplifier-1000w",
+      "price": {
+        "currency": "USD",
+        "price": 1450.0,
+        "discountedPrice": 1450.0,
+        "formatted": {
+          "price": "$1,450.00",
+          "discountedPrice": "$1,450.00"
+        }
+      },
+      "category": "Tesla amplifier or complete audio product"
+    },
+    {
+      "name": "Tesla Model S Upgraded Speakers - Gen.3 Infinity - Premium Four Door Woofer",
+      "sku": null,
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-s-speakers-gen-3-upgraded-premium-four-door-speakers",
+      "price": {
+        "currency": "USD",
+        "price": 1299.0,
+        "discountedPrice": 1299.0,
+        "formatted": {
+          "price": "$1,299.00",
+          "discountedPrice": "$1,299.00"
+        }
+      },
+      "category": "Tesla speaker product"
+    },
+    {
+      "name": "Tesla Model S Upgraded Speakers - Gen.3 Infinity - Premium Two Door Woofer",
+      "sku": "MS-G3-INF-2D",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-s-speakers-infinity-upgraded-two-door-woofers",
+      "price": {
+        "currency": "USD",
+        "price": 700.0,
+        "discountedPrice": 700.0,
+        "formatted": {
+          "price": "$700.00",
+          "discountedPrice": "$700.00"
+        }
+      },
+      "category": "Tesla speaker product"
+    },
+    {
+      "name": "Tesla Model 3 Highland- Ultimate 15 Upgraded Speakers -Subwoofer/Woofer/Tweeter",
+      "sku": "M3H-G3-2D5M4Mb2T2S",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-3-speakers-gen-3-ultimate-15-speakers-for-2024-highland",
+      "price": {
+        "currency": "USD",
+        "price": 1899.0,
+        "discountedPrice": 1799.0,
+        "formatted": {
+          "price": "$1,899.00",
+          "discountedPrice": "$1,799.00"
+        }
+      },
+      "category": "Tesla speaker product"
+    },
+    {
+      "name": "Tesla Cybertruck AWD Cyberbeast Speaker - Ultimate 11 Subwoofer/Woofer/Tweeter",
+      "sku": "MC-G3-2S2D3M2Mb2T",
+      "url": "https://www.lightharmonic.com/product-page/cybertruck-ultimate-13-speakers-subwoofer-woofer-midrange-tweeter",
+      "price": {
+        "currency": "USD",
+        "price": 2699.0,
+        "discountedPrice": 2699.0,
+        "formatted": {
+          "price": "$2,699.00",
+          "discountedPrice": "$2,699.00"
+        }
+      },
+      "category": "Tesla speaker product"
+    },
+    {
+      "name": "Tesla Cybertruck Long Range - Upgraded Speakers 7 -  Woofer/Midrange/Tweeter",
+      "sku": "MC-G3-2D3M2T",
+      "url": "https://www.lightharmonic.com/product-page/tesla-cybertruck-7-speakers-woofer-midrange-tweeter",
+      "price": {
+        "currency": "USD",
+        "price": 1699.0,
+        "discountedPrice": 1699.0,
+        "formatted": {
+          "price": "$1,699.00",
+          "discountedPrice": "$1,699.00"
+        }
+      },
+      "category": "Tesla speaker product"
+    },
+    {
+      "name": "Tesla Model 3 Upgraded Speakers - Gen 3 - Zenith 8 - Woofer/Tweeter (2017-2023)",
+      "sku": "M3-G3-2D3M2T1Tc",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-3-speakers-gen-3-zenith-8-speakers-system",
+      "price": {
+        "currency": "USD",
+        "price": 1199.0,
+        "discountedPrice": 1099.0,
+        "formatted": {
+          "price": "$1,199.00",
+          "discountedPrice": "$1,099.00"
+        }
+      },
+      "category": "Tesla speaker product"
+    },
+    {
+      "name": "Tesla Model Y Upgraded Speakers - Gen 3 - Zenith 8 - Woofer/Tweeter (2020-2024)",
+      "sku": "MY-G3-2D3M2T1Tc",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-y-speakers-gen-3-zenith-8-speakers-system",
+      "price": {
+        "currency": "USD",
+        "price": 1199.0,
+        "discountedPrice": 1099.0,
+        "formatted": {
+          "price": "$1,199.00",
+          "discountedPrice": "$1,099.00"
+        }
+      },
+      "category": "Tesla speaker product"
+    },
+    {
+      "name": "Tesla Model 3 Upgraded Speakers - Gen 3 Premium 11- Subwoofer/Woofer/Tweeter",
+      "sku": "M3-G3-2D3M2Mb2T1Tc1S",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-3-speakers-gen-3-premium-11-speakers-system",
+      "price": {
+        "currency": "USD",
+        "price": 1499.0,
+        "discountedPrice": 1499.0,
+        "formatted": {
+          "price": "$1,499.00",
+          "discountedPrice": "$1,499.00"
+        }
+      },
+      "category": "Tesla speaker product"
+    },
+    {
+      "name": "Tesla Model Y Upgraded Speakers - Gen 3 Premium 11- Subwoofer/Woofer/Tweeter",
+      "sku": "MY-G3-2D3M2Mb2T1Tc1S",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-y-speakers-gen-3-premium-11-speakers-system",
+      "price": {
+        "currency": "USD",
+        "price": 1499.0,
+        "discountedPrice": 1499.0,
+        "formatted": {
+          "price": "$1,499.00",
+          "discountedPrice": "$1,499.00"
+        }
+      },
+      "category": "Tesla speaker product"
+    },
+    {
+      "name": "Tesla Model S Upgraded Speakers & Amplifier Ultimate Package (2013-2020)",
+      "sku": "MS-G3-A1G-M4D1S",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-s-speakers-amplifier-subwoofer-four-door-upgraded",
+      "price": {
+        "currency": "USD",
+        "price": 2399.0,
+        "discountedPrice": 2399.0,
+        "formatted": {
+          "price": "$2,399.00",
+          "discountedPrice": "$2,399.00"
+        }
+      },
+      "category": "Tesla amplifier or complete audio product"
+    },
+    {
+      "name": "Tesla Model 3 Upgraded Speakers (Before 2024) - Ultimate 12",
+      "sku": "M3-G3-2D5M2Mb2T1Tc1S",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-3-ultimate-13-upgraded-speaker-system",
+      "price": {
+        "currency": "USD",
+        "price": 1899.0,
+        "discountedPrice": 1799.0,
+        "formatted": {
+          "price": "$1,899.00",
+          "discountedPrice": "$1,799.00"
+        }
+      },
+      "category": "Tesla speaker product"
+    },
+    {
+      "name": "Tesla Model Y Upgraded Speakers (Before 2025) - Ultimate 13",
+      "sku": "MY-G3-2D5M2Mb2T1Tc1S",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-y-ultimate-13-speaker-system-upgraded",
+      "price": {
+        "currency": "USD",
+        "price": 1699.0,
+        "discountedPrice": 1649.0,
+        "formatted": {
+          "price": "$1,699.00",
+          "discountedPrice": "$1,649.00"
+        }
+      },
+      "category": "Tesla speaker product"
+    },
+    {
+      "name": "Tesla Model S Upgraded Amplifier (2013-2020) - Gen 3 Infinity - 6 Channels",
+      "sku": "MSX-A1G",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-s-inf-amp",
+      "price": {
+        "currency": "USD",
+        "price": 1200.0,
+        "discountedPrice": 1200.0,
+        "formatted": {
+          "price": "$1,200.00",
+          "discountedPrice": "$1,200.00"
+        }
+      },
+      "category": "Tesla amplifier or complete audio product"
+    },
+    {
+      "name": "Tesla Model Y Upgraded Speakers - Gen 3 Two Front Doors Woofers",
+      "sku": "MY-G3-2D",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-y-speaker-two-door-woofer-upgraded",
+      "price": {
+        "currency": "USD",
+        "price": 550.0,
+        "discountedPrice": 550.0,
+        "formatted": {
+          "price": "$550.00",
+          "discountedPrice": "$550.00"
+        }
+      },
+      "category": "Tesla speaker product"
+    },
+    {
+      "name": "Tesla Model 3 Upgraded Speakers - Gen 3 Two Front Doors Woofers",
+      "sku": "M3-G3-2D",
+      "url": "https://www.lightharmonic.com/product-page/tesla-model-3-speaker-two-door-woofer-upgraded",
+      "price": {
+        "currency": "USD",
+        "price": 550.0,
+        "discountedPrice": 550.0,
+        "formatted": {
+          "price": "$550.00",
+          "discountedPrice": "$550.00"
+        }
+      },
+      "category": "Tesla speaker product"
+    }
+  ],
+  "contact": {
+    "email": "cs@lightharmonic.com",
+    "supportUrl": "https://www.lightharmonic.com/support"
+  }
+}

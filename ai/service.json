@@ -1,0 +1,16 @@
+{
+  "name": "Light Harmonic support and commerce service profile",
+  "url": "https://www.lightharmonic.com/ai/service.json",
+  "services": [
+    "Tesla speaker upgrade product discovery",
+    "Tesla amplifier upgrade product discovery",
+    "Fitment support by model, year, trim, and factory audio package",
+    "Installation manual and installation video discovery",
+    "Order processing, shipping, return, and warranty policy discovery"
+  ],
+  "mcpEndpoint": "https://www.lightharmonic.com/_api/mcp",
+  "support": {
+    "email": "cs@lightharmonic.com",
+    "url": "https://www.lightharmonic.com/support"
+  }
+}
