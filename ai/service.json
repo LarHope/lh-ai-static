@@ -1,7 +1,16 @@
 {
   "name": "Light Harmonic support and commerce service profile",
   "url": "https://www.lightharmonic.com/ai/service.json",
+  "domain": "https://www.lightharmonic.com",
+  "last_updated": "2026-06-17",
   "services": [
+    "Tesla speaker upgrade product discovery",
+    "Tesla amplifier upgrade product discovery",
+    "Fitment support by model, year, trim, and factory audio package",
+    "Installation manual and installation video discovery",
+    "Order processing, shipping, return, and warranty policy discovery"
+  ],
+  "capabilities": [
     "Tesla speaker upgrade product discovery",
     "Tesla amplifier upgrade product discovery",
     "Fitment support by model, year, trim, and factory audio package",
